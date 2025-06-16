@@ -1,0 +1,7 @@
+# vendor_api
+draft_ui.docx
+/media/product_images
+.DS_Store
+/vendor_api/__pycache__/
+/vendor_app/__pycache__/
+/vendor_app/management/commands/__pycache__/
